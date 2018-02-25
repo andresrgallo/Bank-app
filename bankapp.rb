@@ -1,3 +1,4 @@
+#Bank application
 balance = File.read("balance.txt").to_i
 history = []
 bstatement = File.read("bank_statement.txt").to_s
